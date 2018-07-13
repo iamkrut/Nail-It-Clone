@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nail It", "Assembly-CSharp.csproj", "{2A697536-D46E-3AAB-D576-8C7906139B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nail It", "Assembly-CSharp-Editor.csproj", "{42EC2ED7-5AFE-32C9-C4F7-6D42422E0EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A697536-D46E-3AAB-D576-8C7906139B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A697536-D46E-3AAB-D576-8C7906139B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A697536-D46E-3AAB-D576-8C7906139B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A697536-D46E-3AAB-D576-8C7906139B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EC2ED7-5AFE-32C9-C4F7-6D42422E0EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EC2ED7-5AFE-32C9-C4F7-6D42422E0EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EC2ED7-5AFE-32C9-C4F7-6D42422E0EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EC2ED7-5AFE-32C9-C4F7-6D42422E0EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
